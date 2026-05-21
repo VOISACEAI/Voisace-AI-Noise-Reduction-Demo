@@ -1,3 +1,5 @@
+![Demo](demo.png)
+
 # Voisace Audio Intelligence Demo
 
 Real-time Voice Enhancement and Audio Intelligence
