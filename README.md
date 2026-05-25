@@ -54,13 +54,17 @@ This demo showcases Voisace AI speech enhancement technology in challenging nois
 - Low-latency AI processing
 - Optimized for communication systems
 
+---
+
 ## Demo Video
 
 [Watch Demo 2](./Voisace_Acoustic_AI_Noise_Reduction_Demo_02.mp4)
 
+---
+
 ## Preview
 
-![Demo2](./demo.png)
+![Demo2](./demo2.png)
 
 ---
 
