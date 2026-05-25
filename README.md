@@ -39,7 +39,7 @@ Python · PyTorch · FFmpeg · CUDA
 
 ## Website
 
-https://voisace.com
+https://www.voisace.com
 
 ---
 
@@ -61,3 +61,19 @@ This demo showcases Voisace AI speech enhancement technology in challenging nois
 ## Preview
 
 ![Demo2](./demo.png)
+
+---
+
+## Applications
+
+- Voice AI
+- Online Meetings
+- Streaming Audio
+- Smart Communication Devices
+- AI Call Enhancement
+
+---
+
+## About Voisace
+
+Voisace focuses on next-generation Acoustic AI Intelligence technologies for real-time speech enhancement and communication systems.
