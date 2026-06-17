@@ -16,16 +16,17 @@ https://youtu.be/ZUOCqbJAlvE
 
 ## Overview
 
-This demo showcases Voisace's AI Noise Reduction technology in a challenging acoustic environment.
+This demo showcases Voisace's AI Noise Reduction technology under extremely challenging acoustic conditions.
 
-The original audio contains wind noise and natural environmental background sounds. Voisace's AI model suppresses unwanted noise while preserving speech clarity and natural voice quality.
+The original audio contains strong wind noise and natural environmental background sounds. Voisace's AI model suppresses unwanted noise while preserving speech intelligibility, clarity, and natural voice characteristics.
 
 ---
 
 ## Demo Scenario
 
-* Language: Arabic
+* Language: Czech
 * Noise Type: Wind Noise + Nature Sounds
+* SNR: -12dB
 * Format: Before vs After Comparison
 * Technology: AI Noise Reduction / Speech Enhancement
 
