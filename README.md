@@ -1,83 +1,79 @@
-![Demo](demo.png)
+# Voisace AI Noise Reduction Demo
 
-# Voisace Audio Intelligence Demo
-
-Real-time Voice Enhancement and Audio Intelligence
+AI-powered speech enhancement and noise reduction technology demonstration by Voisace.
 
 ---
 
 ## Demo Video
 
-https://www.youtube.com/watch?v=Z2iiK7havH0
+Watch the demonstration on YouTube:
+
+https://youtu.be/ZUOCqbJAlvE
 
 ---
 
-## Features
+## Overview
 
-- Real-time Noise Suppression
-- Voice Enhancement
-- Dynamic Spectrogram Visualization
-- AI-powered Audio Processing
-- Speaker-focused Audio Intelligence
+This demo showcases Voisace's AI Noise Reduction technology in a challenging acoustic environment.
+
+The original audio contains wind noise and natural environmental background sounds. Voisace's AI model suppresses unwanted noise while preserving speech clarity and natural voice quality.
 
 ---
 
-## Demo Scenarios
+## Demo Scenario
 
-- Background noise removal
-- Multi-environment voice enhancement
-- Speaker clarity optimization
-- Audio preprocessing for Voice AI systems
-
----
-
-## Tech Stack
-
-Python · PyTorch · FFmpeg · CUDA
+* Language: Arabic
+* Noise Type: Wind Noise + Nature Sounds
+* Format: Before vs After Comparison
+* Technology: AI Noise Reduction / Speech Enhancement
 
 ---
 
-## Website
+## Key Features
 
-https://www.voisace.com
-
----
-
-# Demo 2 — Real-Time AI Noise Reduction
-
-This demo showcases Voisace AI speech enhancement technology in challenging noisy environments.
-
-## Features
-
-- Real-time background noise suppression
-- Enhanced speech intelligibility
-- Low-latency AI processing
-- Optimized for communication systems
-
----
-
-## Demo Video
-
-[Watch Demo 2](./Voisace_Acoustic_AI_Noise_Reduction_Demo_02.mp4)
-
----
-
-## Preview
-
-![Demo2](./demo2.png)
+* AI-powered noise reduction
+* Speech enhancement
+* Wind noise suppression
+* Environmental noise removal
+* Voice clarity improvement
+* Real-time processing capability
+* Embedded AI deployment ready
 
 ---
 
 ## Applications
 
-- Voice AI
-- Online Meetings
-- Streaming Audio
-- Smart Communication Devices
-- AI Call Enhancement
+* Smart Conference Systems
+* Meeting Rooms
+* Video Conferencing
+* Contact Centers
+* AI Voice Assistants
+* Mobile Devices
+* Embedded Audio Systems
+* Enterprise Communication
 
 ---
 
 ## About Voisace
 
-Voisace focuses on next-generation Acoustic AI Intelligence technologies for real-time speech enhancement and communication systems.
+Voisace develops advanced AI-powered audio technologies for conference systems, enterprise communication, speech enhancement, and intelligent audio processing.
+
+### Website
+
+https://www.voisace.com
+
+### GitHub
+
+https://github.com/VOISACEAI
+
+### LinkedIn
+
+https://www.linkedin.com/company/voisace
+
+### Contact
+
+[sales@voisace.com](mailto:sales@voisace.com)
+
+---
+
+© Voisace. All Rights Reserved.
