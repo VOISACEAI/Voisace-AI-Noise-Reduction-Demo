@@ -1,5 +1,7 @@
 # Voisace AI Noise Reduction Demo
 
+![Voisace AI Noise Reduction Demo](demo.png)
+
 AI-powered speech enhancement and noise reduction technology demonstration by Voisace.
 
 ---
