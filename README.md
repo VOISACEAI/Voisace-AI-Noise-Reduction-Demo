@@ -12,12 +12,17 @@ A compact Voisace demo package for acoustic AI media publishing.
 | Orientation | Unknown |
 | Source file | Voisace_Acoustic_AI_Noise_Reduction_Demo 02.mp4 |
 | Asset ID | VLIB-FFDFBC65DE |
+| YouTube | [Watch on YouTube](https://www.youtube.com/watch?v=ZRRg-EBD5YI) |
 
 ## What This Demonstrates
 
 - Noise Reduction applied to real-world noise media
 - Before/after style demo asset prepared for YouTube and social distribution
 - Local VAMP automation metadata generated for review-first publishing
+
+## Demo Video
+
+[Watch the public demo on YouTube](https://www.youtube.com/watch?v=ZRRg-EBD5YI)
 
 ## Publishing Notes
 
