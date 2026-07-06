@@ -32,4 +32,5 @@ Generated: 2026-06-27 15:14:58
 
 ## VAMP Demo Archive
 
+- 2026-07-06: [Voisace Noise Reduction Demo - Russian Wind Noise](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VIN-E9C9A7E9DF-Voisace_Noise_Reduction_Demo_-_Russian_Wind_Noise.md) - `VIN-E9C9A7E9DF`
 - 2026-07-03: [Voisace Acoustic AI Noise Reduction Demo 02](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VLIB-FFDFBC65DE-Voisace_Acoustic_AI_Noise_Reduction_Demo_02.md) - `VLIB-FFDFBC65DE`
