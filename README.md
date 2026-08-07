@@ -1,5 +1,12 @@
 # Voisace Acoustic AI Noise Reduction Demo 02
 
+
+<!-- VAMP_REPOSITORY_COVER_START -->
+<p align="center">
+  <img src="GitHub_Cover.png" alt="Voisace AI Noise Reduction Demo" width="680">
+</p>
+<!-- VAMP_REPOSITORY_COVER_END -->
+
 A compact Voisace demo package for acoustic AI media publishing.
 
 ## Demo Metadata
