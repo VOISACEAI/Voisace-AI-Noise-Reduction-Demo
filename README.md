@@ -39,6 +39,7 @@ Generated: 2026-06-27 15:14:58
 
 ## VAMP Demo Archive
 
+- 2026-08-29: [Voisace Noise Reduction Demo - Greek Bus Noise](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VLIB-7A46F4E00B-Voisace_Noise_Reduction_Demo_-_Greek_Bus_Noise.md) - `VLIB-7A46F4E00B`
 - 2026-08-28: [Voisace Noise Reduction Demo - Arabic Real-world Noise](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VLIB-7910EF336D-Voisace_Noise_Reduction_Demo_-_Arabic_Real-world_Noise.md) - `VLIB-7910EF336D`
 - 2026-08-27: [Voisace Noise Reduction Demo - Swedish Subway Noise](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VIN-815020F4BA-Voisace_Noise_Reduction_Demo_-_Swedish_Subway_Noise.md) - `VIN-815020F4BA`
 - 2026-08-25: [Voisace Noise Reduction Demo - Danish Running Water Noise](https://github.com/VOISACEAI/Voisace-AI-Noise-Reduction-Demo/blob/main/demos/VLIB-8F41C13D4A-Voisace_Noise_Reduction_Demo_-_Danish_Running_Water_Noise.md) - `VLIB-8F41C13D4A`
