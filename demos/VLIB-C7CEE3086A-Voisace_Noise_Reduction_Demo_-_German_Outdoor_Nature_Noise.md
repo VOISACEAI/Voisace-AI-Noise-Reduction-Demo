@@ -4,7 +4,7 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=UuJVDVJo3Yw) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 | Orientation | Landscape |
 | Source file | german_1_noise_lax_with_Nature_Ambiance_White_Noise_707_snr-15dB... (MP4) |
 | Asset ID | VLIB-C7CEE3086A |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=UuJVDVJo3Yw
 
 ## Publishing
 
