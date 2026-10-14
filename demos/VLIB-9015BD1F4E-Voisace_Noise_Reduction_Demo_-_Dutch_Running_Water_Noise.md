@@ -4,7 +4,7 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=k6gT9muhius) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 | Orientation | Landscape |
 | Source file | dutch_3_noise_kaibin_SED_easy_Water_210429_2_snr3dB_Dutch_Landsc... (MP4) |
 | Asset ID | VLIB-9015BD1F4E |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=k6gT9muhius
 
 ## Publishing
 
