@@ -4,7 +4,7 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=3uQ5msdIVCw) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace noise reduction suppressing background noise while keepi
 | Orientation | Landscape |
 | Source file | spanish_1_noise_04_016283_snr-3dB_Spanish_Landscape_BeforeAfter.mp4 |
 | Asset ID | VIN-4DEF12390D |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=3uQ5msdIVCw
 
 ## Publishing
 
